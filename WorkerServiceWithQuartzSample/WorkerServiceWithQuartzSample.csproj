@@ -4,7 +4,6 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>dotnet-WorkerServiceWithQuartzSample-27a8dd2e-490d-4719-b705-e9dce8f52dc5</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
